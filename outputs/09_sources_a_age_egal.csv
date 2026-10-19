@@ -1,0 +1,13 @@
+source,tranche_age,sessions,pct_completion,pct_risque_potentiel
+ai_assistant,18-34,991,50.8,10.7
+google_ads,18-34,741,44.5,13.9
+google_organic,18-34,1549,42.7,11.2
+ai_assistant,35-49,972,54.7,15.4
+google_ads,35-49,1815,38.8,23.9
+google_organic,35-49,3029,42.7,16.9
+ai_assistant,50-64,320,55.6,28.7
+google_ads,50-64,2135,38.2,33.4
+google_organic,50-64,1958,43.8,25.3
+ai_assistant,65+,58,51.7,23.3
+google_ads,65+,1175,37.4,39.0
+google_organic,65+,448,44.9,25.4

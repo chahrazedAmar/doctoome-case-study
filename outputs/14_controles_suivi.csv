@@ -1,0 +1,5 @@
+controle,cas,sur
+visiteurs dont first_seen_at = 1re session observée (aucun historique avant juin),20000,20000
+"sessions avec ""questionnaire_start"" mais sans affichage de la Q1 ni aucune réponse",893,16774
+sessions avec les 5 réponses mais sans résultat enregistré,105,26000
+"sessions ""direct"" avec un nom de campagne (incohérent)",219,26000

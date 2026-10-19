@@ -1,0 +1,10 @@
+etape,sessions,pct_des_arrivees,pct_perdu_vs_etape_prec
+0. Arrivée sur la page,26000,100.0,
+1. Début du questionnaire,16774,64.5,35.5
+2. Question 1 affichée,15881,61.1,5.3
+3. Réponse Q1,15558,59.8,2.0
+4. Réponse Q2,14779,56.8,5.0
+5. Réponse Q3,13920,53.5,5.8
+6. Réponse Q4,12044,46.3,13.5
+7. Réponse Q5,11462,44.1,4.8
+8. Questionnaire terminé,11357,43.7,0.9

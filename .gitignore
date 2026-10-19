@@ -1,0 +1,8 @@
+
+# données brutes et nettoyées de Doctoome : on ne les publie pas
+data/
+data_clean/
+
+# fichiers temporaires créés par Python
+__pycache__/
+*.pyc

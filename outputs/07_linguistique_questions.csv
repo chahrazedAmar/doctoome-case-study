@@ -1,0 +1,6 @@
+question_number,nb_mots,temporalite,negation_ou_exclusion,plusieurs_idees (or/and),seuil_a_calculer,nb_reponses,longueur_moy_reponses,temps_median_s,abandon_pct
+1,15,fait acquis (ever),False,False,False,3,7.3,13.5,2.0
+2,14,période récente (last),False,True,False,3,4.3,13.6,5.0
+3,11,fait acquis (been diagnosed),False,True,False,3,4.3,13.6,5.8
+4,13,habitude (usually),False,False,True,4,19.5,21.0,13.5
+5,20,fait acquis (ever),True,False,False,3,4.3,13.4,4.8
